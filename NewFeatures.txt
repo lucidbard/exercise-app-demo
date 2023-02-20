@@ -1,0 +1,23 @@
+
+# Record Exercises
+  - If you rowed for 5 minutes, you could save it
+
+## Design Changes
+ - History or Log
+ - Display a record of exercises
+
+## Data
+ - Store information about an exercise
+ - Stored on a server OR it could be stored in LocalStorage
+
+# Add new exercises
+  - Add my own exercise to track
+
+## Create Exercise Screen
+  - Name
+  - Set of checkboxes for each attribute
+
+## Data
+  - Store "Custom Exercises" and add to the set of "Default Exercises"
+
+# Fitness Adviser or Workout Planner
